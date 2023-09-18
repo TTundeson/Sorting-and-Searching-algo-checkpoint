@@ -1,0 +1,1 @@
+This JavaScript code defines the insertionSort function, which sorts an array in-place using the insertion sort algorithm. It then demonstrates the sorting of the myArray variable and prints the sorted array to the console.
